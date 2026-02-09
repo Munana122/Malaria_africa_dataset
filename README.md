@@ -1,1 +1,15 @@
-# Malaria_africa_dataset
+# Formative Assignment: Advanced Linear Algebra (PCA)
+
+📌 Overview
+This repository contains my implementation of Principal Component Analysis (PCA) from scratch as part of the Advanced Linear Algebra formative assignment.
+The goal is to reduce the dimensionality of a dataset while retaining as much variance (information) as possible, using eigenvalues, eigenvectors, and covariance concepts.
+
+📊 Dataset
+Name: Africa Malaria Dataset
+Source: Humanitarian health data focusing on malaria prevalence and health indicators across African regions
+
+📈 Results
+PCA reduced the dataset from N features to M principal components.
+The first few components captured the majority of variance.
+Visualization shows clusters preserved but rotated into a lower-dimensional space.
+Scree plot demonstrates how explained variance guides component selection.
